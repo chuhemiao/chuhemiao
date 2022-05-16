@@ -17,17 +17,3 @@ A non-professional front-end, from Shanghai.
 **Cryptocurrency Holders**  
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
-<code><img height="45" src="https://github.com/dfinity/awesome-dfinity/raw/master/assets/dfinity-logo.png"></code> 
-
-**Trending**  
-
-<a href="https://github.com/chuhemiao/chuhemiao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuhemiao&show_icons=true&include_all_commits=true&theme=radical&&count_private=true" alt="Anurag's github stats" />
-</a>
-
-<br/>
-<br/>
-
-<a href="https://github.com/chuhemiao/chuhemiao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuhemiao&layout=compact&theme=radical" />
-</a>
