@@ -1,6 +1,6 @@
 ### Hi there, I'm chuhemiao 👋
 
-A non-professional front-end, from Shanghai.
+A Web3 Dev.
 
 - 🌱 I’m currently learning Rust & Typescript & Motoko
 
