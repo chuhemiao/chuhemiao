@@ -2,7 +2,7 @@
 
 A Web3 Dev.
 
-- 🌱 I’m currently learning Rust & Typescript & Motoko
+- 🌱 I’m currently learning Japanese&Python
 
 **Languages and Tools:**  
 
