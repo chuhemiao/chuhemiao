@@ -2,7 +2,7 @@
 
 A Web3 Dev.
 
-- 🌱 I’m currently learning Japanese&Python
+- 🌱 I’m currently learning Japanese&AI
 
 **Languages and Tools:**  
 
